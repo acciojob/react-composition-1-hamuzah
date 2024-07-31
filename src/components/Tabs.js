@@ -3,7 +3,7 @@ import React,{useState} from "react";
 
 
 const Tabs = ({arr}) => {
-    comst[Tabs,setTabs] = useState(0)
+    const[Tabs,setTabs] = useState(0)
 
     return (
         <div>
